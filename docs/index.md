@@ -8,7 +8,7 @@ However, evaluations of ecosystem responses to biological invasions are often li
 Our working group will address these questions by integrating diverse environmental data sources from various terrestrial ecosystems using the advanced computational resources available through ESIIL to investigate how ecosystem properties are affected by biological invasion. 
 This project will improve our understanding of biological invasion and the assessment of their impacts on ecosystem functioning and services.
 
-![Placeholder image for the homepage overview][assets/images/slots/hero/hero.png]{ .homepage-hero }
+![Placeholder image for the homepage overview](assets/images/slots/hero/hero.png){ .homepage-hero }
 
 ## Working Group Abstract
 
