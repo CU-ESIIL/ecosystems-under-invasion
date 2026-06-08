@@ -1,11 +1,9 @@
-# Working Group Template
+# Ecosystems under invasion
 
-This repository is a template for ESIIL Working Groups.
+This repository is for ESIIL Working Group - Ecosystems under invasion: Responses of terrestrial ecosystem properties to degree of invasion.
 
-This template is designed as one connected system:
-
-- The repository is where the science happens.
-- The website is where the science is shared.
+- The repository is where we share our working process and maintain the website for our working group.
+- The website is where the project information and more details are shared.
 - GitHub connects them through commits, version history, and publishing.
 
 ## How this repository is organized
