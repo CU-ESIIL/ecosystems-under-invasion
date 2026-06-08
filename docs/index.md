@@ -1,19 +1,13 @@
 # Home
 
-## Working Group Title
+## Ecosystems Under Invasion
 
-Working Group Title
+Biological invasion severely disrupts ecosystems and human societies by compromising ecosystem services and complicating conservation actions. 
+To mitigate invasion impacts with limited resources, understanding ecosystem-scale sensitivity to the degree of invasion is critical for developing effective management plans. 
+However, evaluations of ecosystem responses to biological invasions are often limited to simple comparisons between native and invaded communities, thus it remains unclear how ecosystem functions and services change along the gradient of invasion and how these responses vary among ecosystems, dominant invaders, and environmental conditions. 
+Our working group will address these questions by integrating diverse environmental data sources from various terrestrial ecosystems using the advanced computational resources available through ESIIL to investigate how ecosystem properties are affected by biological invasion. 
+This project will improve our understanding of biological invasion and the assessment of their impacts on ecosystem functioning and services.
 
-This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
-
-As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
-
-[Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
-[Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
-
-![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
-
---8<-- "_generated/slot_notes/hero.md"
 
 ## Working Group Abstract
 
