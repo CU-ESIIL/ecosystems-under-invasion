@@ -124,10 +124,6 @@ Related landmark: WG-A People and roles.
 
 --8<-- "_generated/slot_notes/group-photo.md"
 
-| Name | Role | Institution | Responsibilities |
-| --- | --- | --- | --- |
-| Name | Role | Institution | Responsibilities |
-| Name | Role | Institution | Responsibilities |
 
 | Name                   | Role                   | Institution                  | Expertise                                                                                            |
 |------------------------|------------------------|------------------------------|------------------------------------------------------------------------------------------------------|
