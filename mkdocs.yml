@@ -1,11 +1,11 @@
-site_name: 'ESIIL Working Group OASIS'
-site_description: 'Repository and website template for ESIIL working groups'
+site_name: 'Ecosystems Under Invasion'
+site_description: 'Responses of terrestrial ecosystem properties to degree of invasion'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Working_group_OASIS
+site_url: https://cu-esiil.github.io/ecosystems-under-invasion/
 
 # Repository
-repo_name: Working_group_OASIS
-repo_url: https://github.com/CU-ESIIL/Working_group_OASIS
+repo_name: ecosystems-under-invasion
+repo_url: https://github.com/CU-ESIIL/ecosystems-under-invasion
 # The edit URI points MkDocs Material at the docs/ source so page edit links open in GitHub edit mode.
 edit_uri: edit/main/docs/
 # Copyright
