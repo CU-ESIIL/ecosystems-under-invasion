@@ -372,8 +372,16 @@ body {
 }
 
 .md-typeset img.homepage-hero {
+  width: 100%;
+  height: 400px;       /* adjust as desired */
+  object-fit: cover;
+}
+
+/* 
+.md-typeset img.homepage-hero {
   aspect-ratio: 16 / 7;
 }
+*/
 
 .md-typeset img.section-image {
   aspect-ratio: 16 / 9;
