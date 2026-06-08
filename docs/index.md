@@ -2,17 +2,18 @@
 
 ## Ecosystems Under Invasion
 
+A quest to understand the responses of terrestrial ecosystem properties to variable degrees of invasion. 
+
+![Placeholder image for the homepage overview](assets/images/slots/hero/hero.png){ .homepage-hero }
+
+## Working Group Abstract
+
 Biological invasion severely disrupts ecosystems and human societies by compromising ecosystem services and complicating conservation actions. 
 To mitigate invasion impacts with limited resources, understanding ecosystem-scale sensitivity to the degree of invasion is critical for developing effective management plans. 
 However, evaluations of ecosystem responses to biological invasions are often limited to simple comparisons between native and invaded communities, thus it remains unclear how ecosystem functions and services change along the gradient of invasion and how these responses vary among ecosystems, dominant invaders, and environmental conditions. 
 Our working group will address these questions by integrating diverse environmental data sources from various terrestrial ecosystems using the advanced computational resources available through ESIIL to investigate how ecosystem properties are affected by biological invasion. 
 This project will improve our understanding of biological invasion and the assessment of their impacts on ecosystem functioning and services.
 
-![Placeholder image for the homepage overview](assets/images/slots/hero/hero.png){ .homepage-hero }
-
-## Working Group Abstract
-
-Add an overview of who your group is, why you have come together and what questions you are answering. This is very similar to your working group description on the esiil website.
 
 ## Start Here
 
@@ -127,5 +128,20 @@ Related landmark: WG-A People and roles.
 | --- | --- | --- | --- |
 | Name | Role | Institution | Responsibilities |
 | Name | Role | Institution | Responsibilities |
+
+| Name                   | Role                   | Institution                  | Expertise                                                                                            |
+|------------------------|------------------------|------------------------------|------------------------------------------------------------------------------------------------------|
+| Yingying Xie           | PI, project lead       | Northern Kentucky University | Plant ecology, biological invasion, environmental data science, statistical modeling, remote sensing |
+| Thilina Surasinghe     | Co-PI, project co-lead | Bridgewater State University | measuring biodiversity change, biological invasions, community ecology, GIS, statistical modeling    |
+| Diane Styers           | Co-PI                  | Western Carolina University  | Forest ecology, remote sensing, GIS                                                                  |
+| Mary Beth Kolozsvary   | Co-PI                  | Siena College                | biodiversity, biological invasions, community ecology                                                |
+| Matthew Aiello-Lammens | Tech lead              | Pace University              | Plant ecology, ecological modeling, invasion biology                                                 |
+| Chenyang Wei           | Tech co-lead           | The Ohio State Univeristy    | Physical geography, remote sensing, environmental data science                                       |
+| Reymond Miyajima       | Participant            | The Ohio State Univeristy    | Trait-based ecology, geospatial statistics, biogeography                                             |
+| Claire Lunch           | Participant            | NEON                         | Data science, NEON                                                                                   |
+| Nate Hofford           | Participant            | Earth Lab / NC RISCC         | Biological invasions, genomics, data science                                                         |
+| Nathan Quarderer       | Participant            | ESIIL                        | data science education                                                                               |
+| Chelsea Nagy           | Participant            | NC RISCC                     | Translational science, invasive species, carbon storage, ecosystem structure                         |
+| Jeremy Collings        | Participant            | NY Natural Heritage Program  | Statistical modeling, Bayesian statistics, population modeling                                       |
 
 --8<-- "_generated/image_slots.md"
